@@ -1,4 +1,4 @@
-## Olá! Eu sou a Brenda 😁
+## Olá! Eu sou a Brenda
 
  <div>
    <a href="https://github.com/brenda-brandao">
